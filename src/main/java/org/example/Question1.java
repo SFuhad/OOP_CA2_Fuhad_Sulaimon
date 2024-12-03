@@ -1,8 +1,8 @@
 package org.example;
 
 /**
- *  Your Name:
- *  Class Group:
+ *  Your Name: Fuhad Sulaimon
+ *  Class Group: GD2
  */
 public class Question1 {    // Interfaces
     public static void main(String[] args) {

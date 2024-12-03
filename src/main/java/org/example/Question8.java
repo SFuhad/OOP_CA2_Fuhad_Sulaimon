@@ -2,8 +2,8 @@ package org.example;
 
 import java.util.*;
 /**
- *  Name:
- *  Class Group:
+ *  Name: Fuhad Sulaimon
+ *  Class Group: GD2
  */
 public class Question8  // Multi-company (Queue)
 {
