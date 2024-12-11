@@ -1,8 +1,8 @@
 package org.example;
 
 /**
- *  Name:
- *  Class Group:
+ *  Name: Fuhad Sulaimon
+ *  Class Group: GD2
  */
 
 /*

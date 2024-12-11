@@ -2,8 +2,8 @@ package org.example;
 
 public class Share
 {
-    private int quantity;
-    private double price;
+    public int quantity;
+    public double price;
 
     public Share(int quantity, double price) {
         this.quantity = quantity;
